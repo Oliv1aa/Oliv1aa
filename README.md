@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Oliv1aa
 - 👀 I’m interested in Trabalho.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Desenvolvimento de sistemas.
+- 📫 How to reach me Lugar nenhum.
 - 😄 Pronouns: Ela/Dela.
 - ⚡ Fun fact: Nerd.
 
